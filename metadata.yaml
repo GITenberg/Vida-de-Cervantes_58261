@@ -1,0 +1,43 @@
+_repo: Vida-de-Cervantes_58261
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Gil y Calpe, Jesús
+    aliases:
+    - Gil y Calpe, Jesus
+    - Calpe, Jesús Gil y
+    birthdate: 1878
+    deathdate: 1937
+    gutenberg_agent_id: '48785'
+    url: http://www.gutenberg.org/2009/agents/48785
+creator:
+  author:
+    agent_name: Mayans y Siscar, Gregorio
+    aliases:
+    - Mayans i Siscar, Gregorio
+    - Siscar, Gregorio Mayans y
+    - Majansius, Gregorius
+    - Mayans, Gregorio
+    - Siscar, Gregorio Mayáns y
+    - Siscar, G. Mayans y
+    - Ciscar, Gregori Mayans i
+    birthdate: 1699
+    deathdate: 1781
+    gutenberg_agent_id: '49860'
+    url: http://www.gutenberg.org/2009/agents/49860
+description: ''
+gutenberg_issued: '2018-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58261'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Valencia (Spain) -- Intellectual life'
+- !lcc 'PQ'
+- !lcsh 'Cervantes Saavedra, Miguel de, 1547-1616'
+- GITenberg
+title: Vida de Cervantes
+url: http://www.gutenberg.org/ebooks/58261
