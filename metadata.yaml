@@ -1,5 +1,5 @@
 _repo: Vida-de-Cervantes_58261
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Gil y Calpe, Jesús
@@ -10,6 +10,9 @@ contributor:
     deathdate: 1937
     gutenberg_agent_id: '48785'
     url: http://www.gutenberg.org/2009/agents/48785
+covers:
+- cover_type: archival
+  image_path: 58261-h/images/cover.jpg
 creator:
   author:
     agent_name: Mayans y Siscar, Gregorio
@@ -26,6 +29,8 @@ creator:
     gutenberg_agent_id: '49860'
     url: http://www.gutenberg.org/2009/agents/49860
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58261#Vida-de-Cervantes
 gutenberg_issued: '2018-11-10'
 gutenberg_type: Text
 identifiers:
